@@ -1,2 +1,2 @@
-# Covid-19
+# Sample Dash
 Dashboard
